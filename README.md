@@ -1,4 +1,8 @@
-# Hey there, I'm Moin 👋
+<h1 align="center">
+  I'm Moin
+</br> 
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
+</h1>
 
 ### 👨‍💻 About Me
 
@@ -51,7 +55,7 @@ I'm a **DevOps Software Engineer** passionate about building robust, scalable, a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=getmoin&theme=tokyonight&hide_border=true" height="165">
 </div>
 
----### <p align="center">⚙️ My development environment </p>
+<p align="center">⚙️ My development environment </p>
 
 > I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
 
